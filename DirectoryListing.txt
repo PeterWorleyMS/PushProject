@@ -1,0 +1,8 @@
+total 14
+drwxr-xr-x 1 v-peworl 1049089   0 May 30 19:51 ./
+drwxr-xr-x 1 v-peworl 1049089   0 May 30 19:06 ../
+drwxr-xr-x 1 v-peworl 1049089   0 May 30 19:23 .git/
+-rw-r--r-- 1 v-peworl 1049089   0 May 30 19:22 .gitignore
+-rw-r--r-- 1 v-peworl 1049089   0 May 30 19:51 DirectoryListing.txt
+-rw-r--r-- 1 v-peworl 1049089 360 May 30 19:44 GitPush.ps1
+-rw-r--r-- 1 v-peworl 1049089  57 May 30 19:09 Readme.md
